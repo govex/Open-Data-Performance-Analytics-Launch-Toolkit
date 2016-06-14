@@ -49,7 +49,7 @@ Come to our community hackathon to learn more.
 <p>A good place to begin is by developing an “elevator pitch”; a short summary of your initiative that you can explain in less than three minutes. This should be non-technical and easily understood by members of the general public. If there is a specific call to action, it should be briefly mentioned.</p>
 
 <p>Building on the elevator pitch, develop a set of talking points that address more specific aspects and frequently asked questions about your initiative such as:</p> 
-<ul>What types of data will be shared?
+<ul><li>What types of data will be shared?</li>
 <li>What types of analysis will be done?</li>
 <li>How will the data or analytics be used by the city?</li>
 <li>How will the city ensure privacy concerns are addressed?</li>
