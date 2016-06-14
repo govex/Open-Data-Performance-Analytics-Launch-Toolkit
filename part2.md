@@ -8,12 +8,12 @@ Public relations is a line of practice with many strategies and techniques, but 
 <br>There are myriad ways to communicate your message. This section will touch on traditional media, social media, direct communication, and events. When deciding on your communication methods and channels, be sure to consider your target audience and how they prefer to receive information. It is common to leverage a combination of several channels.</br>
 
 <u>Traditional Media</u>
-If you don’t already have a media contact list for local publications, radio and television stations, and journalists who focus on government, now is the time to develop one. A quick internet search is a good way to start. Standard communication tools for traditional media include press releases, bylined articles, and op-ed pieces. 
+<br>If you don’t already have a media contact list for local publications, radio and television stations, and journalists who focus on government, now is the time to develop one. A quick internet search is a good way to start. Standard communication tools for traditional media include press releases, bylined articles, and op-ed pieces.</br> 
 
 Press Releases
-A press release is an official announcement of something newsworthy. The goal of a press release is to get a reporter’s attention to have a story written.
-Press releases should be written like a news story. They should include a catchy headline, strong lead paragraph that contains the most relevant information about your initiative, and quotes from the mayor/city manager and/or other key stakeholders describing why the initiative is important. If possible, prepare infographics, photographs, or even screenshots to highlight.
-The press release should include a point of contact who can be reached for additional information.
+<ul><li>A press release is an official announcement of something newsworthy. The goal of a press release is to get a reporter’s attention to have a story written.</li>
+<li>Press releases should be written like a news story. They should include a catchy headline, strong lead paragraph that contains the most relevant information about your initiative, and quotes from the mayor/city manager and/or other key stakeholders describing why the initiative is important. If possible, prepare infographics, photographs, or even screenshots to highlight.</li>
+<li>The press release should include a point of contact who can be reached for additional information.</li></ul>
 See the Appendix for examples of press releases.
 
 Bylined Articles & Op-Ed Pieces
