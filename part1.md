@@ -11,7 +11,7 @@
 <p>To begin, consider the following:</p>
 
 <b><i>Who is the audience you want to reach?</b></i>
-<p class="nomargin">Make a list of all the potential groups and individuals with whom you would like to promote your launch. Be sure to include the “usual suspects” (government and nonprofit leaders, civic tech organizations, etc.). Beyond them, think of other stakeholders and community members, such as university professors, local business owners, parent-teacher associations, etc. who may be interested in learning about and/or engaging with this initiative. If you have leaders for community engagement within your organization, ask them for input and if you can tap into their existing networks.</p>
+<br>Make a list of all the potential groups and individuals with whom you would like to promote your launch. Be sure to include the “usual suspects” (government and nonprofit leaders, civic tech organizations, etc.). Beyond them, think of other stakeholders and community members, such as university professors, local business owners, parent-teacher associations, etc. who may be interested in learning about and/or engaging with this initiative. If you have leaders for community engagement within your organization, ask them for input and if you can tap into their existing networks.</br>
 
 <p>The <a href="https://centerforgov.gitbooks.io/community-engagement-playbook/content/chapter6.1.html">GovEx Community Capacity Toolkit</a> (an appendix in the GovEx Community Engagement Toolkit) is a useful resource to identify the key people and organizations to whom you may wish to direct your outreach.</p> 
 
