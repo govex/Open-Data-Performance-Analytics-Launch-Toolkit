@@ -6,12 +6,12 @@
 <li>At a major milestone or enhancement: When the program has successfully reached an important step in its growth or has brought about change that is worthy of celebration. This could be when a performance management program has realized cost savings or a comprehensive data inventory is released to an open data portal.</li>
 <li>At an anniversary: It is easy to forget a program which has been in place for several years and is running smoothly. Use anniversaries to celebrate the successes of the previous year and make new commitments for the future.</li>
 
-These are all good opportunities to promote your efforts and to broaden the scope of public engagement. (For purposes of this guide, we will generically refer to all of these opportunities as a “launch”). 
+<p>These are all good opportunities to promote your efforts and to broaden the scope of public engagement. (For purposes of this guide, we will generically refer to all of these opportunities as a “launch”).</p> 
 
-To begin, consider the following:
+<p>To begin, consider the following:</p>
 
-Who is the audience you want to reach?
-Make a list of all the potential groups and individuals with whom you would like to promote your launch. Be sure to include the “usual suspects” (government and nonprofit leaders, civic tech organizations, etc.). Beyond them, think of other stakeholders and community members, such as university professors, local business owners, parent-teacher associations, etc. who may be interested in learning about and/or engaging with this initiative. If you have leaders for community engagement within your organization, ask them for input and if you can tap into their existing networks.
+<b><i>Who is the audience you want to reach?</b></i>
+<p>Make a list of all the potential groups and individuals with whom you would like to promote your launch. Be sure to include the “usual suspects” (government and nonprofit leaders, civic tech organizations, etc.). Beyond them, think of other stakeholders and community members, such as university professors, local business owners, parent-teacher associations, etc. who may be interested in learning about and/or engaging with this initiative. If you have leaders for community engagement within your organization, ask them for input and if you can tap into their existing networks.</p>
 
 The GovEx Community Capacity Toolkit (an appendix in the GovEx Community Engagement Toolkit) is a useful resource to identify the key people and organizations to whom you may wish to direct your outreach. 
 
