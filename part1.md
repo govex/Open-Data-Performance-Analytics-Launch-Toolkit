@@ -11,9 +11,9 @@
 <p>To begin, consider the following:</p>
 
 <b><i>Who is the audience you want to reach?</b></i>
-Make a list of all the potential groups and individuals with whom you would like to promote your launch. Be sure to include the “usual suspects” (government and nonprofit leaders, civic tech organizations, etc.). Beyond them, think of other stakeholders and community members, such as university professors, local business owners, parent-teacher associations, etc. who may be interested in learning about and/or engaging with this initiative. If you have leaders for community engagement within your organization, ask them for input and if you can tap into their existing networks.
+<p>Make a list of all the potential groups and individuals with whom you would like to promote your launch. Be sure to include the “usual suspects” (government and nonprofit leaders, civic tech organizations, etc.). Beyond them, think of other stakeholders and community members, such as university professors, local business owners, parent-teacher associations, etc. who may be interested in learning about and/or engaging with this initiative. If you have leaders for community engagement within your organization, ask them for input and if you can tap into their existing networks.</p>
 
-The GovEx Community Capacity Toolkit (an appendix in the GovEx Community Engagement Toolkit) is a useful resource to identify the key people and organizations to whom you may wish to direct your outreach. 
+<p>The <a href="https://centerforgov.gitbooks.io/community-engagement-playbook/content/chapter6.1.html">GovEx Community Capacity Toolkit</a> (an appendix in the GovEx Community Engagement Toolkit) is a useful resource to identify the key people and organizations to whom you may wish to direct your outreach.</p> 
 
 What do you want them to know or do?
 The next step is to decide on the message that you want to convey. One useful paradigm for developing a message is Simon Sinek’s principle of “Start With Why.” Sinek maintains that “People don’t buy what you do; they buy why you do what you do.” In other words, community members are more likely to engage with your initiative if they understand why it is useful, important, and/or relevant to them than simply because it’s new. 
