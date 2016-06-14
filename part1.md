@@ -48,23 +48,23 @@ Come to our community hackathon to learn more.
 
 <p>A good place to begin is by developing an “elevator pitch”; a short summary of your initiative that you can explain in less than three minutes. This should be non-technical and easily understood by members of the general public. If there is a specific call to action, it should be briefly mentioned.</p>
 
-Building on the elevator pitch, develop a set of talking points that address more specific aspects and frequently asked questions about your initiative such as:
+<p>Building on the elevator pitch, develop a set of talking points that address more specific aspects and frequently asked questions about your initiative such as:</p>
 <ul><li>What types of data will be shared?</li>
 <li>What types of analysis will be done?</li>
 <li>How will the data or analytics be used by the city?</li>
 <li>How will the city ensure privacy concerns are addressed?</li>
 <li>How can interested individuals or organizations take action or learn more?</li></ul>
 
-Your message will be most effective if it resonates with the community to which you wish to connect. One way to achieve this is by providing relevant examples for them. For example, if you are speaking with local business leaders, you may say something like: “If you are considering opening a construction company, our open data portal will enable you to view the number and types of permits that have been issued in the past year.” 
+<p>Your message will be most effective if it resonates with the community to which you wish to connect. One way to achieve this is by providing relevant examples for them. For example, if you are speaking with local business leaders, you may say something like: “If you are considering opening a construction company, our open data portal will enable you to view the number and types of permits that have been issued in the past year.”</p> 
 
-What resources do you have available? 
-Funding, staff time, and location are key determinants of the type of launch activities you create. In addition, consider your timeline. How far in advance are you planning for your launch? Are there other events happening in the same time period that could call attention away from the launch? All of these factors will impact the number of activities and type of outreach that you develop. Your launch may be as simple as a press release and media briefing or as complex as a series of in-person events. You may choose to host the event at a press room or you might consider asking a community organization to be your host. Celebrating a launch outside the offices of city hall often demonstrates stronger ties to the community.
+<b><i>What resources do you have available?</b></i> 
+<br>Funding, staff time, and location are key determinants of the type of launch activities you create. In addition, consider your timeline. How far in advance are you planning for your launch? Are there other events happening in the same time period that could call attention away from the launch? All of these factors will impact the number of activities and type of outreach that you develop. Your launch may be as simple as a press release and media briefing or as complex as a series of in-person events. You may choose to host the event at a press room or you might consider asking a community organization to be your host. Celebrating a launch outside the offices of city hall often demonstrates stronger ties to the community.</br>
 
-How does the launch support the program’s engagement objectives?
-Calls to action should align to the open data, performance, or analytics program’s long-term goals. Ensure that the program leader is regularly talking to those responsible for spreading the word.
+<b><i>How does the launch support the program’s engagement objectives?</b></i>
+<br>Calls to action should align to the open data, performance, or analytics program’s long-term goals. Ensure that the program leader is regularly talking to those responsible for spreading the word.</br>
 
-How will you measure success? 
-Decide on at least one goal or metric for each of the promotional activities or outreaches that you enact. This will enable you to gauge the effectiveness of your efforts and will provide valuable input for future outreach. (see GovEx’s Outreach Effectiveness Toolkit for more information.) Several key metrics you may choose to track are: 
-Event registration/attendance: How many people plan to attend or participate? How do they align with your target audience? How did they learn about the event? How many people actually attended?
-Engagement: Are event attendees or participants actively engaging? Are they asking questions? For an existing program, was there an increase in the number of visitors to the portal or attendees at stat meetings?
-Impressions and interactions: If a mass email or social media is part of your outreach, knowing how many readers viewed the message and how many readers clicked on included links can help measure reach. Many platforms provide these metrics, but if you don’t use one or yours doesn’t show metrics, free tools (such as go.usa.gov or bitly.com) can substitute. More sophisticated solutions will allow you to identify which channels and messages were the most effective (see GovEx’s Web Analytics Toolkits for more examples).
+<b><i>How will you measure success?</b></i> 
+<br>Decide on at least one goal or metric for each of the promotional activities or outreaches that you enact. This will enable you to gauge the effectiveness of your efforts and will provide valuable input for future outreach. (see GovEx’s Outreach Effectiveness Toolkit for more information.) Several key metrics you may choose to track are:</br> 
+<ul><li>Event registration/attendance: How many people plan to attend or participate? How do they align with your target audience? How did they learn about the event? How many people actually attended?</ul></li>
+<li>Engagement: Are event attendees or participants actively engaging? Are they asking questions? For an existing program, was there an increase in the number of visitors to the portal or attendees at stat meetings?</li>
+<li>Impressions and interactions: If a mass email or social media is part of your outreach, knowing how many readers viewed the message and how many readers clicked on included links can help measure reach. Many platforms provide these metrics, but if you don’t use one or yours doesn’t show metrics, free tools (such as go.usa.gov or bitly.com) can substitute. More sophisticated solutions will allow you to identify which channels and messages were the most effective (see GovEx’s Web Analytics Toolkits for more examples).</li>
