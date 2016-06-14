@@ -1,13 +1,13 @@
 <h4>Part 2: Spread the Word (Public Relations 101)</h4>
 Public relations is a line of practice with many strategies and techniques, but in its essence the goal of public relations is to disseminate a message to an audience. If you are experienced with public relations, you may choose to skip this section. However if you are new to the field or would like a refresher, read on. 
 
-Determine who can serve as a spokesperson
-If your organization, mayor, or city manager has a press secretary or communications officer, that person should be well prepared to respond to inquiries about your initiative. If you don’t have an official spokesperson, designate individuals within the organization who are authorized to speak publicly, answer questions, and provide comments on your initiative. When preparing communication materials, include the names, titles, and contact information for your designated spokesperson(s).
+<b>Determine who can serve as a spokesperson</b>
+<br>If your organization, mayor, or city manager has a press secretary or communications officer, that person should be well prepared to respond to inquiries about your initiative. If you don’t have an official spokesperson, designate individuals within the organization who are authorized to speak publicly, answer questions, and provide comments on your initiative. When preparing communication materials, include the names, titles, and contact information for your designated spokesperson(s).</br>
 
-Choose your communication methods and channels
-There are myriad ways to communicate your message. This section will touch on traditional media, social media, direct communication, and events. When deciding on your communication methods and channels, be sure to consider your target audience and how they prefer to receive information. It is common to leverage a combination of several channels.
+<b>Choose your communication methods and channels</b>
+<br>There are myriad ways to communicate your message. This section will touch on traditional media, social media, direct communication, and events. When deciding on your communication methods and channels, be sure to consider your target audience and how they prefer to receive information. It is common to leverage a combination of several channels.</br>
 
-Traditional Media
+<u>Traditional Media</u>
 If you don’t already have a media contact list for local publications, radio and television stations, and journalists who focus on government, now is the time to develop one. A quick internet search is a good way to start. Standard communication tools for traditional media include press releases, bylined articles, and op-ed pieces. 
 
 Press Releases
