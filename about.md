@@ -1,6 +1,6 @@
 <h1>Open Data / Performance Analytics Launch Toolkit</h1>
 
-<h2>About This Toolkit</h2>
+<b>About This Toolkit</b>
 
 <p>Cities across the country are making significant investments in opening data for internal and external consumption. Many of them are also using data for analysis and performance management. These efforts are highly valued and appreciated by stakeholders involved in policy making and front-line operations.</p>
 
