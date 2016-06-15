@@ -25,9 +25,9 @@ Internet & Social Media
 <br>Social media enables your organization to directly connect with stakeholders and residents in a timely and inexpensive way. Determining which and how many social media platforms to utilize may seem a daunting task, but the payoff can be rewarding. The suggestions below are designed to get you started with social media, but are by no means an exhaustive list. (If you’re not already overwhelmed with options, take a look at “<a href="http://itknowledgeexchange.techtarget.com/writing-for-business/files/2015/05/JESS3_BrianSolis_ConversationPrism4_WEB_1280x1024.jpg">The Conversation Prism</a>”).</br> 
 
 City Website 
-Prominently display the announcement and a link to your open data, performance, and/or analysis programs on your city website home page.
-Add a link to your open data program or performance dashboard in the footer of your website, as well as in the navigation menus.
-Create a short and memorable web address for your program sites such as data.citystate.gov or citystate.gov/performance. This will require assistance from technical staff.
+<br><ul><li>Prominently display the announcement and a link to your open data, performance, and/or analysis programs on your city website home page.</li>
+<li>Add a link to your open data program or performance dashboard in the footer of your website, as well as in the navigation menus.</li>
+<li>Create a short and memorable web address for your program sites such as data.citystate.gov or citystate.gov/performance. This will require assistance from technical staff.</li></ul></br>
 
 Blogs
 Ask or encourage local bloggers to write about your initiatives or have them guest blog on your organization’s website.
