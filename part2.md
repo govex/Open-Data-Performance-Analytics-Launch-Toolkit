@@ -40,7 +40,7 @@ Facebook, Twitter, Instagram, Snapchat, etc.
 <li>Develop and promote a contest using social media. For example, invite community members to post a message or photo about their most creative use of your open data. Awarding a prize such as a tour of city hall or coffee with the chief executive can inspire people without costing anything.</li>
 
 Direct Communication
-<br>Your organization likely communicates directly with stakeholders and residents through a variety of methods including brochures, newsletters, emails, broadcasts of city council meetings, and more. Here are a few tips for maximizing those opportunities:</br>
+Your organization likely communicates directly with stakeholders and residents through a variety of methods including brochures, newsletters, emails, broadcasts of city council meetings, and more. Here are a few tips for maximizing those opportunities:
 <li>Publicize the open data portal in regularly scheduled communications such as newsletters and brochures.</li>
 <li>Include the website address for your open data portal or analytics home page in the signature line of every employee’s email account.</li>
 <li>Ask the mayor/city manager or other city leaders to promote the open data or performance analytics program at public speaking events.</li>
