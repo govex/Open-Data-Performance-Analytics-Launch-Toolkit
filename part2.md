@@ -17,12 +17,12 @@ Press Releases
 See the Appendix for examples of press releases.
 
 Bylined Articles & Op-Ed Pieces
-Some publications will accept op-ed (opinion-editorial) pieces and articles written by non-staff members, such as business leaders or industry professionals. This is a great opportunity to show thought leadership and to gain publicity for your initiative. 
-Be sure to check the media outlet’s policies for submitting op-eds and bylined articles. 
-Use visuals and statistics to illustrate your point. 
+<ul><li>Some publications will accept op-ed (opinion-editorial) pieces and articles written by non-staff members, such as business leaders or industry professionals. This is a great opportunity to show thought leadership and to gain publicity for your initiative.</li> 
+<li>Be sure to check the media outlet’s policies for submitting op-eds and bylined articles.</li> 
+<li>Use visuals and statistics to illustrate your point.</li></ul> 
 
 Internet & Social Media
-Social media enables your organization to directly connect with stakeholders and residents in a timely and inexpensive way. Determining which and how many social media platforms to utilize may seem a daunting task, but the payoff can be rewarding. The suggestions below are designed to get you started with social media, but are by no means an exhaustive list. (If you’re not already overwhelmed with options, take a look at “The Conversation Prism”). 
+<br>Social media enables your organization to directly connect with stakeholders and residents in a timely and inexpensive way. Determining which and how many social media platforms to utilize may seem a daunting task, but the payoff can be rewarding. The suggestions below are designed to get you started with social media, but are by no means an exhaustive list. (If you’re not already overwhelmed with options, take a look at “<a href="http://itknowledgeexchange.techtarget.com/writing-for-business/files/2015/05/JESS3_BrianSolis_ConversationPrism4_WEB_1280x1024.jpg">The Conversation Prism</a>”).</br> 
 
 City Website 
 Prominently display the announcement and a link to your open data, performance, and/or analysis programs on your city website home page.
