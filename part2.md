@@ -39,7 +39,7 @@ Facebook, Twitter, Instagram, Snapchat, etc.
 <li>Create a <a href="http://www.adweek.com/socialtimes/create-hashtag/502080">hashtag</a> and encourage people to use it when posting about your initiative. Using an existing hashtag (#opendata, #performance, #analytics, etc.) can also raise the profile of your work.</li>
 <li>Develop and promote a contest using social media. For example, invite community members to post a message or photo about their most creative use of your open data. Awarding a prize such as a tour of city hall or coffee with the chief executive can inspire people without costing anything.</li>
 
-<br>Direct Communication
+<p>Direct Communication</p>
 Your organization likely communicates directly with stakeholders and residents through a variety of methods including brochures, newsletters, emails, broadcasts of city council meetings, and more. Here are a few tips for maximizing those opportunities:</br>
 <li>Publicize the open data portal in regularly scheduled communications such as newsletters and brochures.</li>
 <li>Include the website address for your open data portal or analytics home page in the signature line of every employee’s email account.</li>
