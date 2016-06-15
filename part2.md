@@ -25,26 +25,26 @@ Internet & Social Media
 <br>Social media enables your organization to directly connect with stakeholders and residents in a timely and inexpensive way. Determining which and how many social media platforms to utilize may seem a daunting task, but the payoff can be rewarding. The suggestions below are designed to get you started with social media, but are by no means an exhaustive list. (If you’re not already overwhelmed with options, take a look at “<a href="http://itknowledgeexchange.techtarget.com/writing-for-business/files/2015/05/JESS3_BrianSolis_ConversationPrism4_WEB_1280x1024.jpg">The Conversation Prism</a>”).</br> 
 
 City Website 
-<br><ul><li>Prominently display the announcement and a link to your open data, performance, and/or analysis programs on your city website home page.</li>
+<ul><li>Prominently display the announcement and a link to your open data, performance, and/or analysis programs on your city website home page.</li>
 <li>Add a link to your open data program or performance dashboard in the footer of your website, as well as in the navigation menus.</li>
-<li>Create a short and memorable web address for your program sites such as data.citystate.gov or citystate.gov/performance. This will require assistance from technical staff.</li></ul></br>
+<li>Create a short and memorable web address for your program sites such as data.citystate.gov or citystate.gov/performance. This will require assistance from technical staff.</li></ul>
 
 Blogs
-Ask or encourage local bloggers to write about your initiatives or have them guest blog on your organization’s website.
-If you have a blog or news feed as part of your website, share examples and stories about how the data and insights are being used for government decision making and by the local community.
+<ul><li>Ask or encourage local bloggers to write about your initiatives or have them guest blog on your organization’s website.</li>
+<li>If you have a blog or news feed as part of your website, share examples and stories about how the data and insights are being used for government decision making and by the local community.</li></ul>
 
 Facebook, Twitter, Instagram, Snapchat, etc. 
-Use your existing channels to foster conversations around data.
-Encourage community members to post about the ways they are accessing and using data.
-Create a hashtag and encourage people to use it when posting about your initiative. Using an existing hashtag (#opendata, #performance, #analytics, etc.) can also raise the profile of your work.
-Develop and promote a contest using social media. For example, invite community members to post a message or photo about their most creative use of your open data. Awarding a prize such as a tour of city hall or coffee with the chief executive can inspire people without costing anything.
+<ul><li>Use your existing channels to foster conversations around data.</li>
+<li>Encourage community members to post about the ways they are accessing and using data.</li>
+<li>Create a <a href="http://www.adweek.com/socialtimes/create-hashtag/502080">hashtag</a> and encourage people to use it when posting about your initiative. Using an existing hashtag (#opendata, #performance, #analytics, etc.) can also raise the profile of your work.</li>
+<li>Develop and promote a contest using social media. For example, invite community members to post a message or photo about their most creative use of your open data. Awarding a prize such as a tour of city hall or coffee with the chief executive can inspire people without costing anything.</li>
 
 Direct Communication
-Your organization likely communicates directly with stakeholders and residents through a variety of methods including brochures, newsletters, emails, broadcasts of city council meetings, and more. Here are a few tips for maximizing those opportunities:
-Publicize the open data portal in regularly scheduled communications such as newsletters and brochures.
-Include the website address for your open data portal or analytics home page in the signature line of every employee’s email account.
-Ask the mayor/city manager or other city leaders to promote the open data or performance analytics program at public speaking events.
-Set up an information booth at community events (e.g., parades, farmers’ markets, school events).
-Ask city councilors, resident committees, and neighborhood representatives to help spread the word.
-Provide frontline employees who may be asked questions by the public with a frequently asked questions and answers resource guide.
-If you are working with a software vendor, ask them to announce the program in their corporate communications or see if they have resources available to help you.
+<br>Your organization likely communicates directly with stakeholders and residents through a variety of methods including brochures, newsletters, emails, broadcasts of city council meetings, and more. Here are a few tips for maximizing those opportunities:</br>
+<li>Publicize the open data portal in regularly scheduled communications such as newsletters and brochures.</li>
+<li>Include the website address for your open data portal or analytics home page in the signature line of every employee’s email account.</li>
+<li>Ask the mayor/city manager or other city leaders to promote the open data or performance analytics program at public speaking events.</li>
+<li>Set up an information booth at community events (e.g., parades, farmers’ markets, school events).</li>
+<li>Ask city councilors, resident committees, and neighborhood representatives to help spread the word.</li>
+<li>Provide frontline employees who may be asked questions by the public with a frequently asked questions and answers resource guide.</li>
+<li>If you are working with a software vendor, ask them to announce the program in their corporate communications or see if they have resources available to help you.</li>
