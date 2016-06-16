@@ -1,5 +1,5 @@
-Part 3: Create Engagement and Buzz
-Announcing your open data or performance analytics program to the public is the key to generating interest and awareness.
+<h5>Part 3: Create Engagement and Buzz</h5>
+<p>Announcing your open data or performance analytics program to the public is the key to generating interest and awareness.</p>
 
 City Activities
 If your city has the resources and capacity, you may choose to host an event or series of events to promote your open data or performance analytics efforts in conjunction with your announcement. The following examples illustrate the range of activities that cities have done to promote their initiatives. 
@@ -22,23 +22,23 @@ Scavenger hunt: Invite the community to visit your website and search for clues 
 Coordination with Local Partners
 In conjunction with the White House Police Data Initiative, in May 2015, the city of Indianapolis, IN, launched Project Comport during a public launch event hosted by the city’s Open Indy Brigade. The Open Indy Brigade is a collaborative group representing the area’s technology sector, nonprofits, and public policy makers. The event included presentations by Indianapolis Public Safety Director Dr. David Wantz and Indianapolis Metropolitan Police Department Major David Robinson, who gave an overview of the program and discussed its value. Residents who attended had the opportunity to build some initial dashboards to utilize the data. Following the event, photos were posted online. 
 
-In March 2016, St. Paul, MN, collaborated with the Open Twin Cities second annual Geo:Code event to collect public feedback on its open data portal. Open Twin Cities is a community group representing champions of open government and civic technology. Through a partnership with the University of Minnesota’s Usability Services, the event provided the opportunity for participants to use and provide feedback on a variety of local government websites. The event was promoted as “... an opportunity to make public technologies better by telling the creators and maintainers of tools what it’s actually like to use their technologies.” The event, which was held on a Saturday, was free and open to everyone in the community. 
+In March 2016, <b>St. Paul, MN,</b> collaborated with the <a href="http://www.opentwincities.org">Open Twin Cities second annual Geo:Code event</a> to collect public feedback on its open data portal. Open Twin Cities is a community group representing champions of open government and civic technology. Through a partnership with the University of Minnesota’s Usability Services, the event provided the opportunity for participants to use and provide feedback on a variety of local government websites. The event was promoted as “... an opportunity to make public technologies better by telling the creators and maintainers of tools what it’s actually like to use their technologies.” The event, which was held on a Saturday, was free and open to everyone in the community. 
 
-Tie in with National Events
-If you are able to plan your launch activities to coincide with Open Data Day or another nationally publicized day, you may be able to capitalize on the media interest and generate more attention for your program. Such events include: 
+<b>Tie in with National Events</b>
+<br>If you are able to plan your launch activities to coincide with Open Data Day or another nationally publicized day, you may be able to capitalize on the media interest and generate more attention for your program. Such events include:</br> 
 
 International Open Data Day
-Open Data Day is a gathering of residents in cities around the world to write applications, liberate data, create visualizations, and publish analyses using open public data to show support for and encourage the adoption of open data policies by the world's local, regional and national governments.
+<br>Open Data Day is a gathering of residents in cities around the world to write applications, liberate data, create visualizations, and publish analyses using open public data to show support for and encourage the adoption of open data policies by the world's local, regional and national governments.</br>
 http://opendataday.org/
 
 Sunshine Week
-Sunshine Week is often used by the media to draw attention to create a dialog regarding access to government information. Generally, Sunshine Week takes place in mid-March.
+<br>Sunshine Week is often used by the media to draw attention to create a dialog regarding access to government information. Generally, Sunshine Week takes place in mid-March.</br>
 http://sunshineweek.rcfp.org/about-sw/
 
 National Day of Civic Hacking
-National Day of Civic Hacking is a nationwide day of action where developers, government employees, designers, journalists, data scientists, nonprofit employees, UX designers, and residents who care about their communities come together to host civic tech events leveraging their skills to help their community. 
+<br>National Day of Civic Hacking is a nationwide day of action where developers, government employees, designers, journalists, data scientists, nonprofit employees, UX designers, and residents who care about their communities come together to host civic tech events leveraging their skills to help their community.</br> 
 http://hackforchange.org/
 
 Code for America’s Code Across
 <br>CodeAcross is a weekend of civic hacking events hosted by nodes of the Code for America network around the world. It is timed to coincide with International Open Data Day. The goal of CodeAcross is to activate the Code for America network and inspire residents everywhere to get actively involved in their community.</br>
-<a href="https://www.codeforamerica.org/events/codeacross-2016/">https://www.codeforamerica.org/events/codeacross-2016/</a>
+https://www.codeforamerica.org/events/codeacross-2016/
