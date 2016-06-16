@@ -4,7 +4,7 @@
 <b>City Activities</b>
 <br>If your city has the resources and capacity, you may choose to host an event or series of events to promote your open data or performance analytics efforts in conjunction with your announcement. The following examples illustrate the range of activities that cities have done to promote their initiatives.</br> 
 
-When the city council of <b>Tacoma, WA</b> passed an open data/analytics resolution in February 2016, it actively engaged the local media. The city’s open data portal had been active since 2014, but this action was newsworthy because it promoted the codification of the city’s commitment to open data and analytics. Resulting press coverage included an article on StateScoop. 
+When the city council of <b>Tacoma, WA</b> <a href="https://cityoftacoma.legistar.com/LegislationDetail.aspx?ID=2558873&GUID=754BE35D-0C23-421D-8CA0-62D244FD2368&Options=&Search=">passed an open data/analytics resolution</a> in February 2016, it actively engaged the local media. The city’s open data portal had been active since 2014, but this action was newsworthy because it promoted the codification of the city’s commitment to open data and analytics. Resulting press coverage included an article on <a href="http://statescoop.com/tacoma-wash-passes-open-data-law-to-galvanize-transparency-efforts">StateScoop</a>. 
 
 Following a successful training session in March 2016 that Denver, CO developed in collaboration with GovEx, the City blogged about it on the Denver Peak Academy website. The training on inferential statistics for city analysts was a two-day session lead by members of Denver’s Peak team. Their blog post includes sample data visualizations and quotes from training participants praising the session.
 
