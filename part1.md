@@ -1,4 +1,4 @@
-<h3>Part 1: Develop a Plan</h3>
+<h2>Part 1: Develop a Plan</h2>
 
 <p>There are a few key times to raise awareness of an open data, performance, or analytics program:</p>
 <ol><li>At inception: When the program is formally started, but before the implementation is complete (e.g.,when an open data executive order is signed or a performance framework is adopted). This type of announcement raises the visibility of the program internally, as well as to the public, and demonstrates public commitment from senior leaders.</li>
