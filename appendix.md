@@ -1,6 +1,6 @@
 <h2>Appendix: Additional Resources</h2>
 **Socrata Open Data Promotion Guide**
-https://www.socrata.com/open-data-field-guide/engage-your-community/
+<br>https://www.socrata.com/open-data-field-guide/engage-your-community/</br>
 
 **DigitalGov **
 <br>Website hosted by the Office of Citizen Services and Innovative Technologies in the U.S. General Services Administration.The purpose is to help agencies build a 21st century digital government</br>
