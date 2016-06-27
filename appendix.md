@@ -22,5 +22,5 @@ Press release: <a href="http://www.mesaaz.gov/Home/Components/News/News/926/">Me
 
 Jackson, MS
 Press release: <a href="http://www.jacksonms.gov/CivicAlerts.aspx?AID=571">Visit Jackson's New Open Data Portal for Key Government Information</a>
-<br>Related articles:
-* <a href="http://www.jacksonfreepress.com/news/2016/mar/21/city-release-data-driven-website-april-1-many-more/">City to Release Data-Driven Website April 1, Many More Documents Online</a></br>
+<br>Related articles:</br>
+* <a href="http://www.jacksonfreepress.com/news/2016/mar/21/city-release-data-driven-website-april-1-many-more/">City to Release Data-Driven Website April 1, Many More Documents Online</a>
