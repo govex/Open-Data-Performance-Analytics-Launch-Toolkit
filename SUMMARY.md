@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * Open Data / Performance Analytics Launch Toolkit
 * [About This Toolkit](Open-Data-Performance-Analytics-Launch-Toolkit/about.md)
 * Part 1: Develop a Plan
