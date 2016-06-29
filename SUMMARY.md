@@ -9,8 +9,8 @@
   * [How does the launch support the program's engagement objectives?](howdoesthelaunch.md)
   * [How will you measure success?](howwillyoumeasure.md)
 * [Part 2: Spread the Word (Public Relations 101)](part2.md)
-  * Determine who can serve as a spokesperson
-  * Choose your communication methods and channels
+  * [Determine who can serve as a spokesperson](determinespokesperson.md)
+  * [Choose your communication methods and channels](choose.md)
   * Traditional Media
   * Internet & Social Media
   * Direct Communication
