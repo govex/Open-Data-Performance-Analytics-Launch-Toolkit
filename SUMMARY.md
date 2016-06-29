@@ -11,9 +11,9 @@
 * [Part 2: Spread the Word (Public Relations 101)](part2.md)
   * [Determine who can serve as a spokesperson](determinespokesperson.md)
   * [Choose your communication methods and channels](choose.md)
-  * Traditional Media
-  * Internet & Social Media
-  * Direct Communication
+  * [Traditional Media](traditional.md)
+  * [Internet & Social Media](internet.md)
+  * [Direct Communication](directcomm.md)
 * [Part 3: Create Engagement and Buzz](part3.md)
 * [Appendix: Additional Resources](appendix.md)
   * [DigitalGov](digitalgov.md)
