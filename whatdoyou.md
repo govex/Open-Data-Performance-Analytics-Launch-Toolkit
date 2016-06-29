@@ -16,6 +16,10 @@ Sample Messaging Using Sinek’s Golden Circle Model
 
 <img src= >
 
+| Why? | How? | What? |
+| -- | -- | -- |
+| * Our city wants to provide residents with direct access to data and information they can use. * Our city wants to make better decisions about how to allocate funding. | `<h1>Some Header</h1>` | <h1>Some Header</h1> |
+
 
 | Why?        |   * Our city wants to provide residents with direct access to data and        
                   information they can use.
