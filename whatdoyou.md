@@ -14,6 +14,11 @@
 
 Sample Messaging Using Sinek’s Golden Circle Model
 
+| 0:0 | 1:0 |
+| --  | --  |
+| 0:2 | 1:2 |
+| 0:3 | 1:3 |
+
 
 | Why?        |   * Our city wants to provide residents with direct access to data and        
                   information they can use.
