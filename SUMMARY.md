@@ -11,4 +11,9 @@
 * [Part 2: Spread the Word (Public Relations 101)](part2.md)
 * [Part 3: Create Engagement and Buzz](part3.md)
 * [Appendix: Additional Resources](appendix.md)
+  * [DigitalGov](digitalgov.md)
+  * DigitalGov social media resources
+  * Sample Press Releases
+  * Mesa, AZ
+  * Press release: Mesa celebrates Open Data Day with new open data portal
 
