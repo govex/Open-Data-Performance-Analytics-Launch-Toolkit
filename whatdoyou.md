@@ -15,6 +15,11 @@
 Sample Messaging Using Sinek’s Golden Circle Model
 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
  Why? | * Our city wants to provide residents with direct access to data and information they can use.
 * Our city wants to make better decisions about how to allocate funding.
