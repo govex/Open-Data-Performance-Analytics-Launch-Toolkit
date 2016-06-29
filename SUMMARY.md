@@ -9,6 +9,11 @@
   * [How does the launch support the program's engagement objectives?](howdoesthelaunch.md)
   * [How will you measure success?](howwillyoumeasure.md)
 * [Part 2: Spread the Word (Public Relations 101)](part2.md)
+  * Determine who can serve as a spokesperson
+  * Choose your communication methods and channels
+  * Traditional Media
+  * Internet & Social Media
+  * Direct Communication
 * [Part 3: Create Engagement and Buzz](part3.md)
 * [Appendix: Additional Resources](appendix.md)
   * [DigitalGov](digitalgov.md)
