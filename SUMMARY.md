@@ -1,6 +1,6 @@
 # Summary
 
-* [[Open Data / Performance Analytics Launch Toolkit](README.md)](about.md)
+* [[Open Data / Performance Analytics Launch Toolkit](README.md)
 * [About This Toolkit](about.md)
 * [Part 1: Develop a Plan](part_1_develop_a_plan/part1.md)
   * [Who is the audience you want to reach?](who.md)
