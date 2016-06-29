@@ -8,7 +8,7 @@
   * [What resources do you have available?](whatresources.md)
   * [How does the launch support the program's engagement objectives?](howdoesthelaunch.md)
   * [How will you measure success?](howwillyoumeasure.md)
-* [Part 2: Spread the Word (Public Relations 101)](part_2_spread_the_word_public_relations_101/part2.md)
-* [Part 3: Create Engagement and Buzz](part_3_create_engagement_and_buzz/part3.md)
-* [Appendix: Additional Resources](appendix_additional_resources/appendix.md)
+* [Part 2: Spread the Word (Public Relations 101)](part2.md)
+* [Part 3: Create Engagement and Buzz](part3.md)
+* [Appendix: Additional Resources](appendix.md)
 
