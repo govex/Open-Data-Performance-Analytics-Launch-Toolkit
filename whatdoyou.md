@@ -16,10 +16,14 @@ Sample Messaging Using Sinek’s Golden Circle Model
 
 
 
-| 0:0 | 1:0 |
+| Why? | Our city wants to provide residents with direct access to data and information they can use.
+Our city wants to make better decisions about how to allocate funding.|
 | -- | -- |
-| 0:2 | 1:2 |
-| 0:3 | 1:3 |
+| How? | We are introducing an open data portal.
+We are launching a new performance analytics program.
+We are providing training on how to access and use our data resources. |
+| What? | Visit our informational kiosk in the lobby of City Hall. 
+Come to our community hackathon to learn more. |
 
 
 Why?
