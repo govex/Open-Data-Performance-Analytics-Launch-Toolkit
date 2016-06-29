@@ -1,0 +1,3 @@
+##Code for America’s Code Across
+<br>CodeAcross is a weekend of civic hacking events hosted by nodes of the Code for America network around the world. It is timed to coincide with International Open Data Day. The goal of CodeAcross is to activate the Code for America network and inspire residents everywhere to get actively involved in their community.</br>
+https://www.codeforamerica.org/events/codeacross-2016/
