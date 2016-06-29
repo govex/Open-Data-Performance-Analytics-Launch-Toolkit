@@ -1,0 +1,2 @@
+## <b><i>How does the launch support the program’s engagement objectives?</b></i>
+<br>Calls to action should align to the open data, performance, or analytics program’s long-term goals. Ensure that the program leader is regularly talking to those responsible for spreading the word.</br>
