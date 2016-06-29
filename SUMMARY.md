@@ -4,8 +4,8 @@
 * [About This Toolkit](Open-Data-Performance-Analytics-Launch-Toolkit/about.md)
 * [Part 1: Develop a Plan](part_1_develop_a_plan/part1.md)
   * [Who is the audience you want to reach?](who.md)
-  * What do you want them to know or do?
-  * What resources do you have available?
+  * [What do you want them to know or do?](whatdoyou.md)
+  * [What resources do you have available?](whatresources.md)
   * How does the launch support the program's engagement objectives?
   * How will you measure success?
 * [Part 2: Spread the Word (Public Relations 101)](part_2_spread_the_word_public_relations_101/part2.md)
