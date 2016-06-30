@@ -1,6 +1,6 @@
 ## ***What do you want them to know or do?***
 
-The next step is to decide on the message that you want to convey. One useful paradigm for developing a message is Simon Sinek’s principle of "<a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a>." Sinek maintains that “People don’t buy what you do; they buy why you do what you do.” In other words, community members are more likely to engage with your initiative if they understand why it is useful, important, and/or relevant to them than simply because it’s new.
+The next step is to decide on the message that you want to convey. One useful paradigm for developing a message is Simon Sinek’s principle of "[Start With Why](https://www.youtube.com/watch?v=sioZd3AxmnE)." Sinek maintains that “People don’t buy what you do; they buy why you do what you do.” In other words, community members are more likely to engage with your initiative if they understand why it is useful, important, and/or relevant to them than simply because it’s new.
 
 
 
