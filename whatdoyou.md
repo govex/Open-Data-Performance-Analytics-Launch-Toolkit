@@ -20,7 +20,7 @@ To explain this concept, Sinek uses a model called the “Golden Circle.” Imag
 
 Sample Messaging Using Sinek’s Golden Circle Model
 
-
+![](circle.png)
 
 
 
