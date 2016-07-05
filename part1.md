@@ -11,7 +11,7 @@ These are all good opportunities to promote your efforts and to broaden the scop
 
 To begin, consider the following:
 
-## ***Who is the audience you want to reach?***
+### ***Who is the audience you want to reach?***
 
 
 Make a list of all the potential groups and individuals with whom you would like to promote your launch. Be sure to include the “usual suspects” (government and nonprofit leaders, civic tech organizations, etc.). Beyond them, think of other stakeholders and community members, such as university professors, local business owners, parent-teacher associations, etc. who may be interested in learning about and/or engaging with this initiative. If you have leaders for community engagement within your organization, ask them for input and if you can tap into their existing networks.
