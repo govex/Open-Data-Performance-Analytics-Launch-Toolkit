@@ -66,3 +66,10 @@ Funding, staff time, and location are key determinants of the type of launch act
 ### ***How does the launch support the program’s engagement objectives?***
 
 Calls to action should align to the open data, performance, or analytics program’s long-term goals. Ensure that the program leader is regularly talking to those responsible for spreading the word.
+
+###***How will you measure success?*** 
+
+Decide on at least one goal or metric for each of the promotional activities or outreaches that you enact. This will enable you to gauge the effectiveness of your efforts and will provide valuable input for future outreach. (see GovEx’s [Outreach Effectiveness Toolkit](https://centerforgov.gitbooks.io/community-engagement-playbook/content/chapter6.6.html) for more information.) Several key metrics you may choose to track are: 
+* Event registration/attendance: How many people plan to attend or participate? How do they align with your target audience? How did they learn about the event? How many people actually attended?
+* Engagement: Are event attendees or participants actively engaging? Are they asking questions? For an existing program, was there an increase in the number of visitors to the portal or attendees at stat meetings?
+* Impressions and interactions: If a mass email or social media is part of your outreach, knowing how many readers viewed the message and how many readers clicked on included links can help measure reach. Many platforms provide these metrics, but if you don’t use one or yours doesn’t show metrics, free tools (such as [go.usa.gov](https://go.usa.gov) or [bitly.com](https://bitly.com)) can substitute. More sophisticated solutions will allow you to identify which channels and messages were the most effective (see GovEx’s [Web Analytics Toolkits](https://centerforgov.gitbooks.io/community-engagement-playbook/content/chapter6.5.html) for more examples).
