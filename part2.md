@@ -5,3 +5,6 @@ Public relations is a line of practice with many strategies and techniques, but 
 
 If your organization, mayor, or city manager has a press secretary or communications officer, that person should be well prepared to respond to inquiries about your initiative. If you don’t have an official spokesperson, designate individuals within the organization who are authorized to speak publicly, answer questions, and provide comments on your initiative. When preparing communication materials, include the names, titles, and contact information for your designated spokesperson(s).
 
+####**Choose your communication methods and channels**
+
+There are myriad ways to communicate your message. This section will touch on traditional media, social media, direct communication, and events. When deciding on your communication methods and channels, be sure to consider your target audience and how they prefer to receive information. It is common to leverage a combination of several channels.
