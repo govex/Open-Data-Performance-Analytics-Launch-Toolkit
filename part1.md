@@ -58,3 +58,7 @@ Building on the elevator pitch, develop a set of talking points that address mor
 
 
 Your message will be most effective if it resonates with the community to which you wish to connect. One way to achieve this is by providing relevant examples for them. For example, if you are speaking with local business leaders, you may say something like: “If you are considering opening a construction company, our open data portal will enable you to view the number and types of permits that have been issued in the past year.”
+
+### ***What resources do you have available?***
+
+Funding, staff time, and location are key determinants of the type of launch activities you create. In addition, consider your timeline. How far in advance are you planning for your launch? Are there other events happening in the same time period that could call attention away from the launch? All of these factors will impact the number of activities and type of outreach that you develop. Your launch may be as simple as a press release and media briefing or as complex as a series of in-person events. You may choose to host the event at a press room or you might consider asking a community organization to be your host. Celebrating a launch outside the offices of city hall often demonstrates stronger ties to the community.
