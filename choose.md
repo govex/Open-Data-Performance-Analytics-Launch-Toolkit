@@ -1,2 +1,0 @@
-##<b>Choose your communication methods and channels</b>
-<br>There are myriad ways to communicate your message. This section will touch on traditional media, social media, direct communication, and events. When deciding on your communication methods and channels, be sure to consider your target audience and how they prefer to receive information. It is common to leverage a combination of several channels.</br>
