@@ -62,3 +62,7 @@ Your message will be most effective if it resonates with the community to which 
 ### ***What resources do you have available?***
 
 Funding, staff time, and location are key determinants of the type of launch activities you create. In addition, consider your timeline. How far in advance are you planning for your launch? Are there other events happening in the same time period that could call attention away from the launch? All of these factors will impact the number of activities and type of outreach that you develop. Your launch may be as simple as a press release and media briefing or as complex as a series of in-person events. You may choose to host the event at a press room or you might consider asking a community organization to be your host. Celebrating a launch outside the offices of city hall often demonstrates stronger ties to the community.
+
+### ***How does the launch support the program’s engagement objectives?***
+
+Calls to action should align to the open data, performance, or analytics program’s long-term goals. Ensure that the program leader is regularly talking to those responsible for spreading the word.
