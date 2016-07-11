@@ -9,7 +9,7 @@ If your organization, mayor, or city manager has a press secretary or communicat
 
 There are myriad ways to communicate your message. This section will touch on traditional media, social media, direct communication, and events. When deciding on your communication methods and channels, be sure to consider your target audience and how they prefer to receive information. It is common to leverage a combination of several channels.
 
-#####*Traditional Media*
+####*Traditional Media*
 
 If you don’t already have a media contact list for local publications, radio and television stations, and journalists who focus on government, now is the time to develop one. A quick internet search is a good way to start. Standard communication tools for traditional media include press releases, bylined articles, and op-ed pieces.
 
