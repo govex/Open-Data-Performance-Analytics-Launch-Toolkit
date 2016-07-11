@@ -18,7 +18,7 @@ Make a list of all the potential groups and individuals with whom you would like
 
 The [GovEx Community Capacity Toolkit](https://centerforgov.gitbooks.io/community-engagement-playbook/content/chapter6.1.html) (an appendix in the GovEx Community Engagement Toolkit) is a useful resource to identify the key people and organizations to whom you may wish to direct your outreach.
 
-### ***What do you want them to know or do?***
+#### ***What do you want them to know or do?***
 
 The next step is to decide on the message that you want to convey. One useful paradigm for developing a message is Simon Sinek’s principle of "[Start With Why](https://www.youtube.com/watch?v=sioZd3AxmnE)." Sinek maintains that “People don’t buy what you do; they buy why you do what you do.” In other words, community members are more likely to engage with your initiative if they understand why it is useful, important, and/or relevant to them than simply because it’s new.
 
@@ -59,15 +59,15 @@ Building on the elevator pitch, develop a set of talking points that address mor
 
 Your message will be most effective if it resonates with the community to which you wish to connect. One way to achieve this is by providing relevant examples for them. For example, if you are speaking with local business leaders, you may say something like: “If you are considering opening a construction company, our open data portal will enable you to view the number and types of permits that have been issued in the past year.”
 
-### ***What resources do you have available?***
+#### ***What resources do you have available?***
 
 Funding, staff time, and location are key determinants of the type of launch activities you create. In addition, consider your timeline. How far in advance are you planning for your launch? Are there other events happening in the same time period that could call attention away from the launch? All of these factors will impact the number of activities and type of outreach that you develop. Your launch may be as simple as a press release and media briefing or as complex as a series of in-person events. You may choose to host the event at a press room or you might consider asking a community organization to be your host. Celebrating a launch outside the offices of city hall often demonstrates stronger ties to the community.
 
-### ***How does the launch support the program’s engagement objectives?***
+#### ***How does the launch support the program’s engagement objectives?***
 
 Calls to action should align to the open data, performance, or analytics program’s long-term goals. Ensure that the program leader is regularly talking to those responsible for spreading the word.
 
-###***How will you measure success?*** 
+####***How will you measure success?*** 
 
 Decide on at least one goal or metric for each of the promotional activities or outreaches that you enact. This will enable you to gauge the effectiveness of your efforts and will provide valuable input for future outreach. (see GovEx’s [Outreach Effectiveness Toolkit](https://centerforgov.gitbooks.io/community-engagement-playbook/content/chapter6.6.html) for more information.) Several key metrics you may choose to track are: 
 * Event registration/attendance: How many people plan to attend or participate? How do they align with your target audience? How did they learn about the event? How many people actually attended?
