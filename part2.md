@@ -44,4 +44,14 @@ Facebook, Twitter, Instagram, Snapchat, etc.
 * Create a [hashtag](http://www.adweek.com/socialtimes/create-hashtag/502080) and encourage people to use it when posting about your initiative. Using an existing hashtag (#opendata, #performance, #analytics, etc.) can also raise the profile of your work.
 * Develop and promote a contest using social media. For example, invite community members to post a message or photo about their most creative use of your open data. Awarding a prize such as a tour of city hall or coffee with the chief executive can inspire people without costing anything.
 
+####*Direct Communication*
 
+Your organization likely communicates directly with stakeholders and residents through a variety of methods including brochures, newsletters, emails, broadcasts of city council meetings, and more. Here are a few tips for maximizing those opportunities:
+
+* Publicize the open data portal in regularly scheduled communications such as newsletters and brochures.
+* Include the website address for your open data portal or analytics home page in the signature line of every employee’s email account.
+* Ask the mayor/city manager or other city leaders to promote the open data or performance analytics program at public speaking events.
+* Set up an information booth at community events (e.g., parades, farmers’ markets, school events).
+* Ask city councilors, resident committees, and neighborhood representatives to help spread the word.
+* Provide frontline employees who may be asked questions by the public with a frequently asked questions and answers resource guide.
+* If you are working with a software vendor, ask them to announce the program in their corporate communications or see if they have resources available to help you.
