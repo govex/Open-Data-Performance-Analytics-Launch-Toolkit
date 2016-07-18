@@ -1,7 +1,5 @@
 # Summary
 
-* [Table Testing](tabletest.md)
-
 * [Open Data / Performance Analytics Launch Toolkit](about.md)
 * [About This Toolkit](about.md)
 * [Part 1: Develop a Plan](part1.md)
