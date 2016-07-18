@@ -38,3 +38,7 @@ http://opendataday.org/
 Sunshine Week
 Sunshine Week is often used by the media to draw attention to create a dialog regarding access to government information. Generally, Sunshine Week takes place in mid-March.
 http://sunshineweek.rcfp.org/about-sw/
+
+National Day of Civic Hacking
+National Day of Civic Hacking is a nationwide day of action where developers, government employees, designers, journalists, data scientists, nonprofit employees, UX designers, and residents who care about their communities come together to host civic tech events leveraging their skills to help their community.
+http://hackforchange.org/
