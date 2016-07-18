@@ -14,7 +14,7 @@ http://www.digitalgov.gov/category/socialmedia/
 
 **Sample Press Releases**
 
-San Jose, CA
+#####San Jose, CA
 
 Press release: [City Council Unanimously Approves New Open Data Policy](http://www.sanjoseinfo.org/external/content/document/1914/2806926/1/Open%20Data%20Final.pdf)
 
@@ -22,11 +22,11 @@ Related articles:
 * [San Jose Unveils Online Data Hub](http://www.sanjoseinside.com/2016/04/08/san-jose-creates-online-data-hub/)
 * [San Jose City Council embraces open data](https://sfbay.ca/2016/04/05/san-jose-city-council-embraces-open-data/)
 
-Mesa, AZ
+#####Mesa, AZ
 
 Press release: [Mesa celebrates Open Data Day with new open data portal](http://www.mesaaz.gov/Home/Components/News/News/926/)
 
-Jackson, MS
+#####Jackson, MS
 
 Press release: [Visit Jackson's New Open Data Portal for Key Government Information](http://www.jacksonms.gov/CivicAlerts.aspx?AID=571)
 
