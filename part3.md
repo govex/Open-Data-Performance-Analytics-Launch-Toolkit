@@ -31,13 +31,11 @@ In March 2016, **St. Paul, MN**, collaborated with the [Open Twin Cities second 
 ####**Tie in with National Events**
 If you are able to plan your launch activities to coincide with Open Data Day or another nationally publicized day, you may be able to capitalize on the media interest and generate more attention for your program. Such events include:
 
-International Open Data Day
-
+#####International Open Data Day
 Open Data Day is a gathering of residents in cities around the world to write applications, liberate data, create visualizations, and publish analyses using open public data to show support for and encourage the adoption of open data policies by the world's local, regional and national governments.
 http://opendataday.org/
 
-Sunshine Week
-
+#####Sunshine Week
 Sunshine Week is often used by the media to draw attention to create a dialog regarding access to government information. Generally, Sunshine Week takes place in mid-March.
 
 http://sunshineweek.rcfp.org/about-sw/
