@@ -42,3 +42,7 @@ http://sunshineweek.rcfp.org/about-sw/
 National Day of Civic Hacking
 National Day of Civic Hacking is a nationwide day of action where developers, government employees, designers, journalists, data scientists, nonprofit employees, UX designers, and residents who care about their communities come together to host civic tech events leveraging their skills to help their community.
 http://hackforchange.org/
+
+Code for America’s Code Across
+CodeAcross is a weekend of civic hacking events hosted by nodes of the Code for America network around the world. It is timed to coincide with International Open Data Day. The goal of CodeAcross is to activate the Code for America network and inspire residents everywhere to get actively involved in their community.
+https://www.codeforamerica.org/events/codeacross-2016/
