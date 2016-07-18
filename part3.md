@@ -27,3 +27,10 @@ Other promotional activities that can be implemented by your city include:
 In conjunction with the White House Police Data Initiative, in May 2015, the city of Indianapolis, IN, launched Project Comport during a public launch event hosted by the city’s Open Indy Brigade. The Open Indy Brigade is a collaborative group representing the area’s technology sector, nonprofits, and public policy makers. The event included presentations by Indianapolis Public Safety Director Dr. David Wantz and Indianapolis Metropolitan Police Department Major David Robinson, who gave an overview of the program and discussed its value. Residents who attended had the opportunity to build some initial dashboards to utilize the data. Following the event, photos were posted online.
 
 In March 2016, **St. Paul, MN**, collaborated with the [Open Twin Cities second annual Geo:Code event](http://www.opentwincities.org) to collect public feedback on its open data portal. Open Twin Cities is a community group representing champions of open government and civic technology. Through a partnership with the University of Minnesota’s Usability Services, the event provided the opportunity for participants to use and provide feedback on a variety of local government websites. The event was promoted as “... an opportunity to make public technologies better by telling the creators and maintainers of tools what it’s actually like to use their technologies.” The event, which was held on a Saturday, was free and open to everyone in the community. 
+
+####**Tie in with National Events**
+If you are able to plan your launch activities to coincide with Open Data Day or another nationally publicized day, you may be able to capitalize on the media interest and generate more attention for your program. Such events include:
+
+International Open Data Day
+Open Data Day is a gathering of residents in cities around the world to write applications, liberate data, create visualizations, and publish analyses using open public data to show support for and encourage the adoption of open data policies by the world's local, regional and national governments.
+http://opendataday.org/
