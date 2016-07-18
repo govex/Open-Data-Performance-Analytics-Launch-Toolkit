@@ -22,7 +22,7 @@ Other promotional activities that can be implemented by your city include:
 * **Virtual (online) ribbon cutting**: Host a virtual ribbon cutting or launch event via Facebook or Twitter. Encourage attendees to post or tweet about the new initiative. 
 * **Scavenger hunt**: Invite the community to visit your website and search for clues to solve a puzzle.
 
-##**Coordination with Local Partners**
+####**Coordination with Local Partners**
 
 In conjunction with the White House Police Data Initiative, in May 2015, the city of Indianapolis, IN, launched Project Comport during a public launch event hosted by the city’s Open Indy Brigade. The Open Indy Brigade is a collaborative group representing the area’s technology sector, nonprofits, and public policy makers. The event included presentations by Indianapolis Public Safety Director Dr. David Wantz and Indianapolis Metropolitan Police Department Major David Robinson, who gave an overview of the program and discussed its value. Residents who attended had the opportunity to build some initial dashboards to utilize the data. Following the event, photos were posted online.
 
